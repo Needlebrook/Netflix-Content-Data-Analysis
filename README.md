@@ -15,7 +15,7 @@ The python libraries pandas, matplotlib & seaborn were used in conjunction for t
 
 The final report was written by me alone using Canva Docs. 📄
 
-## Author ✒️
+# Author ✒️
 
 Celia Victor 
 - [@Needlebrook](https://github.com/Needlebrook)
