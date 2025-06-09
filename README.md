@@ -5,7 +5,7 @@ The objective of this project is to access, analyze & assess the data of Netflix
 
 The personal objective of this project was to deepen my understanding of fundamental techniques in data extraction, manipulation, and presentation as I begin my first foray into the world of Data science. This project is for me to practice using sqlite3, pandas, matplotlib & seaborn libraries in Python. 🐍
 
-# Tools &amp; Resources Used
+# Tools &amp; Resources Used 🛠️
 The database used here was sourced from Kaggle. 🇰
 - [Database - Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
